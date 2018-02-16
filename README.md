@@ -128,13 +128,19 @@ ____________________________________________
 ____________________________________________
 ____________________________________________
 
-###On Windows 10
+### On Windows 10
+
+//Update the windows 10 x64
+
+//Install Ubuntu from Microsoft Store
+
+//Open Control Panel - programs - programs and components - enable or disable components of windows - mark the subsystem of Windows for Linux - ok - reboot the computer
 
 //Open terminal cmd.exe
 
 bash
 
-//password:*set the password*
+//password: *set the password*
 
 ____________________________________________
 
