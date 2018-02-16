@@ -1,4 +1,4 @@
-## Building inTime 
+## Building inTime only for x64 processor
 
 ### On Ubuntu 16.04 LTS
 
