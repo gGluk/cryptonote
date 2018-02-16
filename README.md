@@ -124,6 +124,16 @@ cd build/release/src
 
 ./intimed
 
+___________________________________________
+
+//Mining
+
+//paste your wallet adress in intime terminal
+
+start_mining [your wallet adress] [threads=2]
+
+Good luck!
+
 ____________________________________________
 ____________________________________________
 ____________________________________________
@@ -277,6 +287,14 @@ make -j3
 cd build/release/src
 
 ./intimed
+
+___________________________________________
+
+//Mining
+
+//paste your wallet adress in intime terminal
+
+start_mining [your wallet adress] [threads=2]
 
 ___________________________________________
 ___________________________________________
