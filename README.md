@@ -288,6 +288,8 @@ make -j3
 
 cd build/release/src
 
+sudo su
+
 ./intimed
 
 ___________________________________________
